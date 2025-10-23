@@ -1,1 +1,21 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Vend+Sans:ital,wght@0,300..700;1,300..700&display=swap');
+body{
+    background:rgb(166, 225, 248);
+    color:whitesmoke;
+    font-family:"Vend Sans"
+}
+h1, h2, h3{
+    color:black;
+}
+hr{
+    border-width:5px;
+    border-style:groove;
+    border-color:black;
+    border-radius:20px;
+}
+img{
+border: 18px groove black;
+  margin: 12px 0;
+  border-radius:20px;
+}
+  
